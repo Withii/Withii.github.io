@@ -1,0 +1,10 @@
+/*底部透明*/
+#footer{
+    /*透明背景*/
+    background: transparent;
+
+}
+
+#footer-wrap{
+    color: #0d0d0d;
+}
